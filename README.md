@@ -21,16 +21,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> Coming Soon
-
-| Home | Vault | Password | Settings |
-|------|--------|----------|----------|
-| Screenshot | Screenshot | Screenshot | Screenshot |
-
----
-
 ## 🛠 Tech Stack
 
 - Kotlin
